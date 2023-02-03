@@ -145,17 +145,12 @@ section{
 /**/
 
 /* this is maximam height of the pic*/
-.search-engine-optimization img {
+.search-engine-optimization img 
+.social-media-marketing img 
+.online-reputation-management img{
     max-height: 200px;
 }
-/* this is maximam height of the pic*/
-.online-reputation-management img {
-    max-height: 200px;
-}
-/* this is maximam height of the pic*/
-.social-media-marketing img {
-    max-height: 200px;
-}
+
 /* empty area space by margin -bootom */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
