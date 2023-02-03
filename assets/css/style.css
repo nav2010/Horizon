@@ -131,7 +131,23 @@ section{
 }
 /**/
 .search-engine-optimization 
+{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 .online-reputation-management
+{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 .social-media-marketing  {
     margin-bottom: 20px;
     padding: 50px;
@@ -145,15 +161,27 @@ section{
 /**/
 
 /* this is maximam height of the pic*/
-.search-engine-optimization img 
-.social-media-marketing img 
+.search-engine-optimization img {
+    max-height: 200px;
+}
+.social-media-marketing img {
+    max-height: 200px;
+}
 .online-reputation-management img{
     max-height: 200px;
 }
 
 /* empty area space by margin -bootom */
 .search-engine-optimization h2 
+{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .social-media-marketing h2
+{
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -168,6 +196,6 @@ put text in center*/
     text-align: center;
 }
 /* footer is bottom area of page   font size is size of h2 wriiten */
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
