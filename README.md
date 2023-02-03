@@ -20,6 +20,9 @@ Alternatively, if you’re trying to clone a GitHub repository onto your local m
 ## Project information
 we given a starter code where we need to do some modification  like we need to change html tags to semantic tags .  and optiomization . 
 
+## Deployment application
+https://nav2010.github.io/Horizon/
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
